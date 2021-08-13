@@ -1,0 +1,98 @@
+[2021-08-09 13:18:58] [ INFO ] [Version:44] HHH000412: Hibernate ORM core version 5.4.32.Final
+ [2021-08-09 13:18:59] [ INFO ] [Version:56] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ [2021-08-09 13:19:01] [ WARN ] [pooling:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+ [2021-08-09 13:19:01] [ INFO ] [pooling:115] HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/db_web_store]
+ [2021-08-09 13:19:01] [ INFO ] [pooling:124] HHH10001001: Connection properties: {password=****, user=root}
+ [2021-08-09 13:19:01] [ INFO ] [pooling:129] HHH10001003: Autocommit mode: false
+ [2021-08-09 13:19:01] [ INFO ] [DriverManagerConnectionProviderImpl:259] HHH000115: Hibernate connection pool size: 20 (min=1)
+ [2021-08-09 13:19:02] [ INFO ] [Dialect:175] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:02] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ INFO ] [JtaPlatformInitiator:52] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ [2021-08-09 13:19:03] [ INFO ] [Factory:13] Creating factory: org.hibernate.internal.SessionFactoryImpl@29d405e6
+ [2021-08-09 13:19:03] [ WARN ] [pooling:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+ [2021-08-09 13:19:03] [ INFO ] [pooling:115] HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/db_web_store]
+ [2021-08-09 13:19:03] [ INFO ] [pooling:124] HHH10001001: Connection properties: {password=****, user=root}
+ [2021-08-09 13:19:03] [ INFO ] [pooling:129] HHH10001003: Autocommit mode: false
+ [2021-08-09 13:19:03] [ INFO ] [DriverManagerConnectionProviderImpl:259] HHH000115: Hibernate connection pool size: 20 (min=1)
+ [2021-08-09 13:19:03] [ INFO ] [Dialect:175] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:03] [ WARN ] [deprecation:2274] HHH90000004: embed-xml attributes were intended to be used for DOM4J entity mode. Since that entity mode has been removed, embed-xml attributes are no longer supported and should be removed from mappings.
+ [2021-08-09 13:19:04] [ INFO ] [JtaPlatformInitiator:52] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ [2021-08-09 13:19:04] [ INFO ] [Factory:23] Open sessionFactory: (SessionImpl(991363637<open>)) in ManageClients
+ [2021-08-09 13:19:04] [ INFO ] [Factory:28] adding a client - Name: (Marco) - Last Name: (Regil) - Username: (MarcoR) - Password: (contraMarco) - Email: (marcoregil@gmail.com).
+ [2021-08-09 13:19:04] [ INFO ] [Factory:34] Added data: (11) from addClient, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:40] Closing session: SessionImpl(991363637<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:20] Open sessionFactory: (SessionImpl(63746349<open>)) in ManageCreditCard
+ [2021-08-09 13:19:04] [ INFO ] [Factory:25] adding a Credit Card - Number: (12312312) - Cardholder: (Marco Regil) - Type Credit Card: (clases.TypeCc@28b458e6).
+ [2021-08-09 13:19:04] [ INFO ] [Factory:30] Added data: (11) from addCreditCard, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:36] Closing session: SessionImpl(63746349<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:18] Open sessionFactory (SessionImpl(2114950440<open>)) in ManageArticlePurchase
+ [2021-08-09 13:19:04] [ INFO ] [Factory:23] Adding relationship between Client: (clases.Clients@5f56424d) and CreditCard: (clases.CreditCards@237b2852)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:28] Added data: (11) from addClientCreditCard, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:34] Closing session: SessionImpl(2114950440<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:22] Open sessionFactory: (SessionImpl(1932983695<open>)) in ManageDeliveryAddress
+ [2021-08-09 13:19:04] [ INFO ] [Factory:27] adding a Delivery Address - City: (clases.City@701c223a) - Country: (clases.Country@550c973e) - State: (clases.State@161d95c6) - Street: (Terreno blanco) - Number: (178).
+ [2021-08-09 13:19:04] [ INFO ] [Factory:33] Added data: (15)from addDeliberyAddress, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:39] Closing session: SessionImpl(1932983695<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:20] Open sessionFactory: (SessionImpl(2123686705<open>)) in ManageClientDelAdd
+ [2021-08-09 13:19:04] [ INFO ] [Factory:23] Adding relationship between Client: (clases.Clients@5f56424d) and DeliveryAddress: (clases.DeliveryAddress@539fc5d1).
+ [2021-08-09 13:19:04] [ INFO ] [Factory:28] Added data: (11) from addClientCreditCard, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:34] Closing session: SessionImpl(2123686705<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:21] Open sessionFactory: (SessionImpl(735754293<open>)) in ManageDeliveryAddress
+ [2021-08-09 13:19:04] [ INFO ] [Factory:27] adding a Delivery Packeges - Delibery Company: (clases.DeliveryCompany@7b8aebd0) - Packege Number: (119955).
+ [2021-08-09 13:19:04] [ INFO ] [Factory:32] Added data: (11) from addDeliberyPackages, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:38] Closing session: SessionImpl(735754293<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:22] Open sessionFactory: (SessionImpl(250177638<open>)) in ManageDeliveryAddress
+ [2021-08-09 13:19:04] [ INFO ] [Factory:28] adding a Purchase Order - Client: (clases.Clients@5f56424d) - Delivery Packeges: (clases.DeliveryPackeges@4c04216f).
+ [2021-08-09 13:19:04] [ INFO ] [Factory:33] Added data: (11) from addPurchaseOrder, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:39] Closing session: SessionImpl(250177638<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:19] Open sessionFactory: (SessionImpl(972303630<open>)) in ManageArticlePurchase
+ [2021-08-09 13:19:04] [ INFO ] [Factory:22] Adding relationship between Article: (1) and Purchase: (11).
+ [2021-08-09 13:19:04] [ INFO ] [Factory:27] Added data: (11) from addArticlePurchase, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:33] Closing session SessionImpl(972303630<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:23] Open sessionFactory: (SessionImpl(228627024<open>)) in ManageBilling
+ [2021-08-09 13:19:04] [ INFO ] [Factory:26] adding a billing - PurchaseOrder: (clases.PurchaseOrders@6d31f106) - Amount: 36.8
+ [2021-08-09 13:19:04] [ INFO ] [Factory:31] Added data: 11 from addBilling, finished
+ [2021-08-09 13:19:04] [ INFO ] [Factory:37] Closing session: SessionImpl(228627024<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:52] showing Client data - id: 11 - Query: FROM Clients c WHERE c.clientId = 11
+ [2021-08-09 13:19:04] [ INFO ] [Factory:70] Closing session: SessionImpl(118503237<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:48] showing Credit Card data - id: 11 - Query: FROM CreditCards c WHERE c.creditCardId = 11
+ [2021-08-09 13:19:04] [ INFO ] [Factory:63] Closing session: SessionImpl(23604842<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:51] showing Delivery Address data - id: 15 - Query: FROM DeliveryAddress c WHERE c.delAddId = 15
+ [2021-08-09 13:19:04] [ INFO ] [Factory:69] Closing session: SessionImpl(521611410<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:50] showing Delivery Packages data - id: 11 - Query: FROM DeliveryPackeges c WHERE c.deliveryPackegesId = 11
+ [2021-08-09 13:19:04] [ INFO ] [Factory:66] Closing session: SessionImpl(1171097095<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:51] showing Purchase Order data - id: 11 - Query: FROM PurchaseOrders c WHERE c.purchaseOrderId = 11
+ [2021-08-09 13:19:04] [ INFO ] [Factory:67] Closing session: SessionImpl(1318348444<open>)
+ [2021-08-09 13:19:04] [ INFO ] [Factory:49] showing Billing data - id: 11 - Query: FROM Billing c WHERE c.billingId = 11
+ [2021-08-09 13:19:04] [ INFO ] [Factory:65] Closing session: SessionImpl(1514969303<open>)
+ 
